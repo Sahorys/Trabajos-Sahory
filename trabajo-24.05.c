@@ -11,7 +11,7 @@ void ingrecali(int alm[][5]){
 		 }
 	 } 
 }
-void calificacion(const int alm[][5]),float promedios[]){
+void calificacion(const int alm[][5],float promedios[]){
 	int i,j,suma;
 	for(i=0; i<5;i++){
 		suma=0;
