@@ -1,4 +1,4 @@
-/*TITULO:
+/*TITULO:Operadores de incremento 2
 Nombre:Fatima Sahory:)*/
 #include <stdio.h>
 #include <stdlib.h>
