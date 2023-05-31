@@ -1,4 +1,4 @@
-/*TITULO:Las sentencias de asignacion boleana
+/*TITULO:Las sentencias de asignacion boleana se pueden escribir de modo que den como resultado un valor de tipo int que sera cero o uno
 Nombre:Fatima Sahory:)*/
 #include <stdio.h>
 #include <stdlib.h>
