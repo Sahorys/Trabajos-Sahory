@@ -6,7 +6,7 @@ int main()
 	float calf;
 	printf("Ingrese su calificacion");
 	scanf("%f",&calf);
-	if(calf>0 && calf<10)
+	if(calf>0 && calf<11)
 	{
 	    if(calf<=10 && calf>6)
 		{
